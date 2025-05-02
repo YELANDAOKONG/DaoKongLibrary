@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Core\Interfaces\" />
       <Folder Include="Tools\" />
       <Folder Include="Utils\" />
     </ItemGroup>
